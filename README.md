@@ -7,7 +7,7 @@ Functionality
 Login setup.
 Location filters.
 Browser for Houses to buy /rent.
-Browser property Owner detais.
+Browser property Owner details.
 Enter property.
 
 
