@@ -3,5 +3,13 @@ Tallaght is different from the rate of same property in Dundrum.
 This functionality will help the user e.g a rental to reduce the prices of their property per location.
 Property Owner can also add new property to the application either to sale or rent.
 
+Functionality 
+Login setup.
+Location filters.
+Browser for Houses to buy /rent.
+Browser property Owner detais.
+Enter property.
+
+
 
 
